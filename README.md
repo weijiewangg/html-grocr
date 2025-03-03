@@ -1,2 +1,2 @@
-# html-Grocr
+# website-grocr
 Grocr website design
